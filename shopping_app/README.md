@@ -4,6 +4,8 @@ ShopEase is a modern, feature-rich E-commerce mobile application built with Flut
 
 ## ✨ Features
 
+
+
 - **User Authentication**: Secure sign-in and registration using Firebase Authentication (Email/Password & Google Sign-In).
 - **Product Catalog**: Browse a wide range of products with detailed descriptions and high-quality images.
 - **Cart Management**: Add, remove, and manage items in your shopping cart with real-time total calculation.
