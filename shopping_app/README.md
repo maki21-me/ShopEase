@@ -72,3 +72,15 @@ lib/
 ## 🛡️ License
 
 This project is for educational purposes. All rights reserved.
+
+## 👥 Team Project
+
+This mobile application was developed as a **team project**.
+
+**Repository Owner:** Mahider Ab  
+**My Role:**
+- Frontend development
+- UI/UX implementation
+- Bug fixing and testing
+
+**Team Size:** 5 members
